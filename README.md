@@ -1,2 +1,2 @@
 # YuhangTom.github.io
-A personal blogdown website for YuhangTom
+A personal blogdown website for YuhangTom.
