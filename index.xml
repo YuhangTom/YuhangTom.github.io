@@ -5,7 +5,8 @@
     <link>/</link>
     <description>Recent content on Yuhang (Tom) LIN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
@@ -15,6 +16,15 @@
       <description>I am a Ph.D. student in Statistics at Iowa State University (ISU). I received my B.Sc. and M.Phil. in Statistics from the Chinese University of Hong Kong (CUHK).
 ACADEMIC BACKGROUND
  Ph.D., Statistics, ISU (Expected graduation date: 31/07/2024) (Supervisor: TBD) M.Phil., Statistics, CUHK (Supervisor: Dr. Kin Wai CHAN) B.Sc., Statistics (First Class Honors), CUHK  </description>
+    </item>
+    
+    <item>
+      <title>STAT 486/586 Spring Homework Solutions</title>
+      <link>/2022/03/13/stat-486-586-spring-homework-solutions/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/03/13/stat-486-586-spring-homework-solutions/</guid>
+      <description> Homework 4 solutions.  </description>
     </item>
     
   </channel>
