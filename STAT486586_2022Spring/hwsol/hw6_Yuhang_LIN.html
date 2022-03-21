@@ -262,7 +262,8 @@ div.tocify {
 <!-- **(Not graded)** -->
 <!-- </span> -->
 <div style="page-break-after: always;"></div>
-<pre class="r"><code>library(purrr)</code></pre>
+<pre class="r"><code>library(purrr)
+library(stringr) # For str_c</code></pre>
 <div id="applying-functions" class="section level1">
 <h1>Applying functions</h1>
 <div id="section" class="section level2">
@@ -294,7 +295,7 @@ sum(unlist(map(1:m, function(j) {
 <div id="part-a." class="section level4">
 <h4>Part a.</h4>
 <pre class="r"><code>### Set a large n
-n &lt;- 1e6
+n &lt;- 1e7
 
 ### map time
 system.time({
@@ -303,7 +304,7 @@ system.time({
   }))
 })</code></pre>
 <pre><code>   user  system elapsed 
-   0.49    0.02    0.50 </code></pre>
+   4.92    0.00    4.92 </code></pre>
 <pre class="r"><code>### for loop time
 system.time({
   out &lt;- 0
@@ -314,14 +315,14 @@ system.time({
   out
 })</code></pre>
 <pre><code>   user  system elapsed 
-   0.02    0.00    0.01 </code></pre>
+   0.17    0.00    0.18 </code></pre>
 <pre class="r"><code>### Vectorized operation time
 system.time({
   i &lt;- 1:n
   sum(1 / i)
 })</code></pre>
 <pre><code>   user  system elapsed 
-   0.02    0.00    0.02 </code></pre>
+   0.03    0.00    0.03 </code></pre>
 </div>
 <div id="part-b." class="section level4">
 <h4>Part b.</h4>
@@ -338,7 +339,7 @@ system.time({
   })))
 })</code></pre>
 <pre><code>   user  system elapsed 
-   9.31    0.15    9.47 </code></pre>
+   8.92    0.27    9.24 </code></pre>
 <pre class="r"><code>### Nested for loop time
 system.time({
   out &lt;- 0
@@ -358,22 +359,22 @@ system.time({
   sum(2^(- ind))
 })</code></pre>
 <pre><code>   user  system elapsed 
-   0.89    0.00    0.89 </code></pre>
+   0.91    0.00    0.91 </code></pre>
 <pre class="r"><code>### Vectorized operation 2 time
 system.time({
   ind &lt;- matrix(1:n, nrow = n, ncol = m) * matrix(1:m, nrow = n, ncol = m, byrow = TRUE)
   sum(2^(- ind))
 })</code></pre>
 <pre><code>   user  system elapsed 
-   0.99    0.00    0.98 </code></pre>
+   0.97    0.00    0.97 </code></pre>
 <pre class="r"><code>### Vectorized operation 3 time
 system.time({
   ind &lt;- outer(1:n, 1:m, &quot;*&quot;)
   sum(2^(- ind))
 })</code></pre>
 <pre><code>   user  system elapsed 
-   0.91    0.00    0.92 </code></pre>
-<p>As we can see, suprisingly, <code>map</code> is the slowest among these three, while the vectorized operation is the fastest.</p>
+   0.90    0.00    0.91 </code></pre>
+<p>As we can see, surprisingly, <code>map</code> is the slowest among these three, while the vectorized operation is the fastest. We use <code>map</code> for its consistency in the format of input and output, as well as its concision when coding, which sacrifices a little bit of computation time. That is not a really big problem for usual simulations.</p>
 </div>
 </div>
 </div>
@@ -545,7 +546,7 @@ rowSums(iris[-5])</code></pre>
 [25] &quot;Kevan Lannister&quot;    &quot;Melisandre&quot;         &quot;Merrett Frey&quot;      
 [28] &quot;Quentyn Martell&quot;    &quot;Samwell Tarly&quot;      &quot;Sansa Stark&quot;       </code></pre>
 <pre class="r"><code>### Actor names
-(act.name &lt;- map_chr(map(got_chars, `[[`, &quot;playedBy&quot;), paste, collapse = &quot;, &quot;))</code></pre>
+(act.name &lt;- map_chr(map(got_chars, `[[`, &quot;playedBy&quot;), str_c, collapse = &quot;, &quot;))</code></pre>
 <pre><code> [1] &quot;Alfie Allen&quot;                               
  [2] &quot;Peter Dinklage&quot;                            
  [3] &quot;&quot;                                          
@@ -581,8 +582,7 @@ rowSums(iris[-5])</code></pre>
 <h3>b.</h3>
 <p><span style="color:red"> <strong>(Not graded)</strong> </span></p>
 <pre class="r"><code>### File names
-### stringr::str_c also works
-Q3bfile.name &lt;- paste0(chr.name, &quot;.txt&quot;)
+Q3bfile.name &lt;- str_c(chr.name, &quot;.txt&quot;, sep = &quot;&quot;)
 
 ### Save txt files
 walk2(act.name, Q3bfile.name, writeLines)</code></pre>
@@ -590,16 +590,15 @@ walk2(act.name, Q3bfile.name, writeLines)</code></pre>
 <div id="c.-2" class="section level3">
 <h3>c.</h3>
 <pre class="r"><code>### File names
-### stringr::str_c also works
-Q3cfile.name &lt;- paste0(chr.name, &quot;All.txt&quot;)
+Q3cfile.name &lt;- str_c(chr.name, &quot;All.txt&quot;, sep = &quot;&quot;)
 
 ### Method 1 (with imap)
 cont &lt;- map(got_chars, function(x) {
   ### Connect with formatting
-  paste(
+  str_c(
     ### Connect text without &quot;\n&quot; in each entry
     imap_chr(x, function(x, i) {
-      paste(i, paste(x, collapse = &quot;, &quot;), sep = &quot;: &quot;)
+      str_c(i, str_c(x, collapse = &quot;, &quot;), sep = &quot;: &quot;)
     }),
     collapse = &quot;\n&quot;
   )
@@ -610,13 +609,11 @@ walk2(cont, Q3cfile.name, writeLines)
 
 ### Method 2 (without imap)
 ### Connect vectors in each entries
-### stringr::str_c also works
-cont.dat &lt;- map(got_chars, map_chr, paste, collapse = &quot;, &quot;)
+cont.dat &lt;- map(got_chars, map_chr, str_c, collapse = &quot;, &quot;)
 ### Get sublist entry name
 name.dat &lt;- map(got_chars, names)
 ### Format the result
-### stringr::str_c also works
-cont &lt;- map2(name.dat, cont.dat, paste, sep = &quot;: &quot;, collapse=&quot;\n&quot;)
+cont &lt;- map2(name.dat, cont.dat, str_c, sep = &quot;: &quot;, collapse=&quot;\n&quot;)
 
 ### Save txt files
 walk2(cont, Q3cfile.name, writeLines)</code></pre>
