@@ -300,7 +300,7 @@ system.time({
   out
 })</code></pre>
 <pre><code>   user  system elapsed 
-   0.19    0.00    0.19 </code></pre>
+   0.17    0.00    0.17 </code></pre>
 <pre class="r"><code>### Vectorized operation time
 system.time({
   i &lt;- 1:n
@@ -361,21 +361,21 @@ system.time({
   out
 })</code></pre>
 <pre><code>   user  system elapsed 
-   1.14    0.00    1.16 </code></pre>
+   1.16    0.00    1.15 </code></pre>
 <pre class="r"><code>### Vectorized operation 1 time
 system.time({
   ind &lt;- matrix(1:n) %*% matrix(1:m, 1)
   sum(2^(- ind))
 })</code></pre>
 <pre><code>   user  system elapsed 
-   0.93    0.02    0.96 </code></pre>
+   0.93    0.00    0.93 </code></pre>
 <pre class="r"><code>### Vectorized operation 2 time
 system.time({
   ind &lt;- matrix(1:n, nrow = n, ncol = m) * matrix(1:m, nrow = n, ncol = m, byrow = TRUE)
   sum(2^(- ind))
 })</code></pre>
 <pre><code>   user  system elapsed 
-   1.03    0.00    1.03 </code></pre>
+   1.00    0.02    1.01 </code></pre>
 <pre class="r"><code>### Vectorized operation 3 time
 system.time({
   ind &lt;- outer(1:n, 1:m, &quot;*&quot;)
@@ -631,7 +631,6 @@ X &lt;- cars$speed
 ### Step 0
 x &lt;- 0
 k &lt;- 1
-n &lt;- length(X)
 tol &lt;- 1e-5
 Kmax &lt;- 1000
 
@@ -656,7 +655,6 @@ X &lt;- cars$speed
 ### Step 0
 x &lt;- 0
 k &lt;- 1
-n &lt;- length(X)
 tol &lt;- 1e-5
 Kmax &lt;- 1000
 
@@ -688,7 +686,6 @@ testthat::expect_equal(x, mean(X), tolerance = tol)</code></pre>
   ### Step 0
   x &lt;- 0
   k &lt;- 1
-  n &lt;- length(X)
   
   g.prime &lt;- function(x, X){
     mean(2 * (x - X))
