@@ -351,6 +351,7 @@ probability of success
 <h2>a.</h2>
 <pre class="r"><code>mu1Vec &lt;- c(5, 5)
 mu2Vec &lt;- c(5, 5.5)
+mudiff &lt;- 0
 n &lt;- 50
 sd &lt;- sqrt(1)
 alp &lt;- 0.05
@@ -365,11 +366,11 @@ outQ2a &lt;- map2_dbl(mu1Vec, mu2Vec, function(mu1, mu2) {
     X2 &lt;- rnorm(n, mean = mu2, sd = sd)
 
     ### 95% two-sided confidence interval
-    CI &lt;- t.test(X1, X2, alternative = &quot;two.sided&quot;, conf.level = 1 - alp)$conf.int
+    CI &lt;- t.test(X1, X2, alternative = &quot;two.sided&quot;, mu = mudiff, conf.level = 1 - alp)$conf.int
 
     ### Check if 0 is not covered in the CI
     ### TRUE if not covered
-    (0 &lt; CI[1]) | (0 &gt; CI[2])
+    (mudiff &lt; CI[1]) | (mudiff &gt; CI[2])
   })
 
   ### Compute the proportion
@@ -410,11 +411,11 @@ outQ2b &lt;- map2_dbl(mu1Vec, mu2Vec, function(mu1, mu2) {
       X2 &lt;- c(X2, rnorm(nby, mean = mu2, sd = sd))
 
       ### 95% two-sided confidence interval
-      CI &lt;- t.test(X1, X2, alternative = &quot;two.sided&quot;, conf.level = 1 - alp)$conf.int
+      CI &lt;- t.test(X1, X2, alternative = &quot;two.sided&quot;, mu = mudiff, conf.level = 1 - alp)$conf.int
 
       ### Check if 0 is not covered in the CI
       ### TRUE if not covered
-      Ireject &lt;- (0 &lt; CI[1]) | (0 &gt; CI[2])
+      Ireject &lt;- (mudiff &lt; CI[1]) | (mudiff &gt; CI[2])
       if (Ireject) {
         break
       }
@@ -447,11 +448,11 @@ outQ2b &lt;- map2_dbl(mu1Vec, mu2Vec, function(mu1, mu2) {
     ### Indicator for reject the null hypothesis
     Ireject &lt;- map_lgl(Isub, function(i) {
       ### 95% two-sided confidence interval for all subsequences
-      CI &lt;- t.test(X1[i], X2[i], alternative = &quot;two.sided&quot;, conf.level = 1 - alp)$conf.int
+      CI &lt;- t.test(X1[i], X2[i], alternative = &quot;two.sided&quot;, mu = mudiff, conf.level = 1 - alp)$conf.int
 
       ### Check if 0 is not covered in the CI
       ### TRUE if not covered
-      (0 &lt; CI[1]) | (0 &gt; CI[2])
+      (mudiff &lt; CI[1]) | (mudiff &gt; CI[2])
     })
     ### Check if null is reject
     sum(Ireject) != 0
@@ -483,11 +484,11 @@ outQ2b &lt;- map2_dbl(mu1Vec, mu2Vec, function(mu1, mu2) {
     ### Indicator for reject the null hypothesis
     Ireject &lt;- map_lgl(Isub, function(i) {
       ### 95% two-sided confidence interval for all subsequences
-      CI &lt;- t.test(X1[i], X2[i], alternative = &quot;two.sided&quot;, conf.level = 1 - alp)$conf.int
+      CI &lt;- t.test(X1[i], X2[i], alternative = &quot;two.sided&quot;, mu = mudiff, conf.level = 1 - alp)$conf.int
 
       ### Check if 0 is not covered in the CI
       ### TRUE if not covered
-      (0 &lt; CI[1]) | (0 &gt; CI[2])
+      (mudiff &lt; CI[1]) | (mudiff &gt; CI[2])
     })
     ### Check if null is reject
     sum(Ireject) != 0
