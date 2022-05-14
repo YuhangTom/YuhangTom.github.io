@@ -559,11 +559,15 @@ S.F.Ratio     14.59298267
 perc.alumni   -0.04404771
 Expend         0.07712632
 Grad.Rate      8.28950241</code></pre>
-<pre class="r"><code>rownames(betaMin)[as.vector(betaMin != 0)]</code></pre>
-<pre><code> [1] &quot;(Intercept)&quot; &quot;PrivateYes&quot;  &quot;Accept&quot;      &quot;Enroll&quot;      &quot;Top10perc&quot;  
- [6] &quot;Top25perc&quot;   &quot;F.Undergrad&quot; &quot;P.Undergrad&quot; &quot;Outstate&quot;    &quot;Room.Board&quot; 
-[11] &quot;Books&quot;       &quot;Personal&quot;    &quot;PhD&quot;         &quot;Terminal&quot;    &quot;S.F.Ratio&quot;  
-[16] &quot;perc.alumni&quot; &quot;Expend&quot;      &quot;Grad.Rate&quot;  </code></pre>
+<pre class="r"><code>as.matrix(betaMin)[as.vector(betaMin != 0), ]</code></pre>
+<pre><code>  (Intercept)    PrivateYes        Accept        Enroll     Top10perc 
+-471.39372052 -491.04485137    1.57033288   -0.75961467   48.14698892 
+    Top25perc   F.Undergrad   P.Undergrad      Outstate    Room.Board 
+ -12.84690695    0.04149116    0.04438973   -0.08328388    0.14943472 
+        Books      Personal           PhD      Terminal     S.F.Ratio 
+   0.01532293    0.02909954   -8.39597537   -3.26800340   14.59298267 
+  perc.alumni        Expend     Grad.Rate 
+  -0.04404771    0.07712632    8.28950241 </code></pre>
 </div>
 <div id="ii.-1" class="section level3">
 <h3>ii.</h3>
@@ -599,8 +603,9 @@ S.F.Ratio      .
 perc.alumni    .         
 Expend         0.02131819
 Grad.Rate      .         </code></pre>
-<pre class="r"><code>rownames(beta1se)[as.vector(beta1se != 0)]</code></pre>
-<pre><code>[1] &quot;(Intercept)&quot; &quot;Accept&quot;      &quot;Top10perc&quot;   &quot;Expend&quot;     </code></pre>
+<pre class="r"><code>as.matrix(beta1se)[as.vector(beta1se != 0), ]</code></pre>
+<pre><code>  (Intercept)        Accept     Top10perc        Expend 
+-492.41173306    1.35599086   19.98045033    0.02131819 </code></pre>
 </div>
 </div>
 <div id="c." class="section level2">
