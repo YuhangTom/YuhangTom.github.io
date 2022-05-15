@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>STAT course on Yuhang (Tom) LIN</title>
     <link>/tags/stat-course/</link>
     <description>Recent content in STAT course on Yuhang (Tom) LIN</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/stat-course/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Package &#39;ProfRate&#39; for STAT 585 Final Project</title>
-      <link>/2022/04/22/package-profrate-for-stat-585-final-project/</link>
+      <link>/post/package-profrate-for-stat-585-final-project/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/2022/04/22/package-profrate-for-stat-585-final-project/</guid>
+      <guid>/post/package-profrate-for-stat-585-final-project/</guid>
       <description>The goal of ProfRate is to retrieve and visualize the data on Rate My Professor. For details, please see the website for ProfRate or the one on my branch.</description>
     </item>
     
     <item>
       <title>STAT 486/586 Spring 2022 Homework Solutions</title>
-      <link>/2022/03/13/stat-486-586-spring-2022-homework-solutions/</link>
+      <link>/post/stat-486-586-spring-2022-homework-solutions/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/2022/03/13/stat-486-586-spring-2022-homework-solutions/</guid>
+      <guid>/post/stat-486-586-spring-2022-homework-solutions/</guid>
       <description>Below are some possible solutions to the homework and midterm exam.
  Homework 2 solutions. Homework 3 solutions. Homework 4 solutions. Homework 5 solutions. Homework 6 solutions. Midterm exam solutions. Homework 7 solutions. Homework 8 solutions. Homework 9 solutions. Homework 10 solutions. Homework 11 solutions.  </description>
     </item>
