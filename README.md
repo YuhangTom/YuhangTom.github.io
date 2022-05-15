@@ -4,4 +4,4 @@ See [here](https://YuhangTom.github.io) for website.
 
 This website is mainly used to host HTML files and posts.
 For a more comprehensive personal website,
-see my [Google website](https://sites.google.com/view/yuhangtom/) for details.
+see my [Google Sites](https://sites.google.com/view/yuhangtom/) for details.
