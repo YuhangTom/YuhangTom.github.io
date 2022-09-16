@@ -11,7 +11,7 @@ author_profile: true
     - [STAT 587: Statistical Methods for Research Workers](https://catalog.iastate.edu/search/?P=STAT%20587)
         - Instructed by [Dr. Mark Kaiser](https://www.stat.iastate.edu/people/mark-kaiser) (Fall 2021)
 - Grader
-    - [STAT 486/586: Introduction to statistical computing](https://catalog.iastate.edu/search/?P=STAT%20586)
+    - [STAT 486/586: Introduction to Statistical Computing](https://catalog.iastate.edu/search/?P=STAT%20586)
         - Instructed by [Dr. Xiongtao Dai](https://publichealth.berkeley.edu/people/xiongtao-dai/) (Spring 2022)
     - [STAT 551: Time Series Analysis](https://catalog.iastate.edu/search/?P=STAT%20551)
         - Instructed by [Dr. Dan Nordman](https://www.stat.iastate.edu/people/dan-nordman) (Fall 2021)
