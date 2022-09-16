@@ -1,9 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching Experience"
-excerpt: "teaching"
 author_profile: true
-redirect_from: 
 ---
 
 
