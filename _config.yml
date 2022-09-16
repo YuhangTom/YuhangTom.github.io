@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuhang (Tom) LIN"
+title                    : "Yuhang (Tom) Lin"
 title_separator          : "-"
-name                     : &name "Yuhang (Tom) LIN"
+name                     : &name "Yuhang (Tom) Lin"
 description              : &description "Ph.D. candidate in Statistics at Iowa State University"
 url                      : https://YuhangTom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhang (Tom) LIN"
+  name             : "Yuhang (Tom) Lin"
   avatar           : "sitephoto_square.jpg"
   bio              : "Ph.D. candidate in Statistics at Iowa State University"
   location         : "Ames, IA, USA"
