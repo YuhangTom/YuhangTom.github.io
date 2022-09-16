@@ -4,7 +4,6 @@ title: "Teaching Experience"
 excerpt: "Teaching experience"
 author_profile: true
 redirect_from: 
-  - /teaching/
   - /teaching.html
 ---
 
