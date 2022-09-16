@@ -22,14 +22,16 @@
     <!-- <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
   <!-- </ul> -->
 <!-- </div> -->
-<span class="nowrap"><b>Last Updated:</b></span>
-<span class="nowrap"><p id="date"></p></span>
-<script>
-months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-n = new Date();
-y = n.getFullYear();
-m = n.getMonth();
-d = n.getDate();
-document.getElementById("date").innerHTML = d + " " + months[m] + " " + y;
+<div class="page__footer-follow">
+  <b>Last Updated:</b> <span id="date"></span>
+  <script>
+  months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+  n = new Date();
+  y = n.getFullYear();
+  m = n.getMonth();
+  d = n.getDate();
+  document.getElementById("date").innerHTML = d + " " + months[m] + " " + y;
+  </script>
+</div>
 </script>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
