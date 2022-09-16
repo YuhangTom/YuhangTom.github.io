@@ -1,6 +1,6 @@
 ---
 permalink: /sharing/
-title: "Sharing Experience"
+title: "Sharing"
 author_profile: true
 ---
 
