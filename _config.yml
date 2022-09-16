@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yuhang (Tom) Lin"
   avatar           : "sitephoto_square.jpg"
-  bio              : "Ph.D. candidate in Statistics at Iowa State University"
+  bio              : "Ph.D. candidate, Statistics"
   location         : "Ames, IA, USA"
-  employer         :
+  employer         : "Iowa State University"
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # example: "http://yourfullgooglescholarurl.com"
   email            : "yhlin@iastate.edu"
