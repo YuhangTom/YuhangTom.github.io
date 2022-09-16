@@ -84,7 +84,8 @@ author:
   avatar           : "sitephoto_square.jpg"
   bio              : "Ph.D. candidate, Statistics"
   location         : "Ames, IA, USA"
-  employer         : "Iowa State University"
+  university       : "Iowa State University"
+  employer         : 
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # example: "http://yourfullgooglescholarurl.com"
   email            : "yhlin@iastate.edu"
