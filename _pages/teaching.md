@@ -13,7 +13,7 @@ author_profile: true
 - Grader
     - [STAT 486/586: Introduction to Statistical Computing](https://catalog.iastate.edu/search/?P=STAT%20586)
         - Instructed by [Dr. Xiongtao Dai](https://publichealth.berkeley.edu/people/xiongtao-dai/) (Spring 2022)
-        - [[Homework Solutions]](https://yuhangtom.github.io/teaching/STAT486586_2022Spring)
+        - [Homework solutions](https://yuhangtom.github.io/teaching/STAT486586_2022Spring)
     - [STAT 551: Time Series Analysis](https://catalog.iastate.edu/search/?P=STAT%20551)
         - Instructed by [Dr. Dan Nordman](https://www.stat.iastate.edu/people/dan-nordman) (Fall 2021)
 
@@ -25,3 +25,4 @@ author_profile: true
         - Instructed by [Dr. Ping Shing Chan](http://www.sta.cuhk.edu.hk/peoples/pschan/) (Spring 2019, 20)
     - [STAT 2005: Programming Languages for Statistics](https://www.sta.cuhk.edu.hk/programmes/stat-courses/#STAT2005)
         - Instructed by [Dr. Tat Wing Wong](http://www.sta.cuhk.edu.hk/peoples/twwong/) (Fall 2018, 19)
+        - [Tutorial notes (Fall 2019)](https://yuhangtom.github.io/teaching/STAT2005_2019Fall)
