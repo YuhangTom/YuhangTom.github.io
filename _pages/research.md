@@ -9,7 +9,7 @@ author_profile: true
 ## Department of Statistics, ISU
 I am working on firearms and toolmark analysis under the supervision of Dr. Heike Hofmann.
 
-## Crop Protection Discovery and Development (CPD&D) Department, Corteva Agriscience
+## Crop Protection Discovery and Development (CPD&D) Department, [Corteva Agriscience](https://www.corteva.us/)
 I worked on generalized nonlinear mixed-effects models and back transformation with bias adjustment, with unbalanced data, under the supervision of Lu Liu.
 
 ## Department of Statistics, CUHK
