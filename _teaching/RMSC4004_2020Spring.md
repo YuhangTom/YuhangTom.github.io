@@ -9,7 +9,9 @@ location: "Sha Tin, NT, Hong Kong"
 ---
 
 
-Here are tutorial notes used in classes.
+Here are tutorial notes together with solutions for assignments and exams in classes.
+
+## Tutorial notes
 - [Tutorial 1](https://drive.google.com/file/d/1p4-gAlxniG8PbIjwLezPKLdExCF6I9cx/view?usp=sharing): Severity Distributions (I).
 - [Tutorial 2](https://drive.google.com/file/d/1G6_i4CRfQ-U0FCezp-0NsnB3yQ_vts5T/view?usp=sharing): Severity Distributions (II).
 - [Tutorial 3](https://drive.google.com/file/d/1Ao1N1wtcfq0AhNQdHGvxQME9ZE4rK9lp/view?usp=sharing): Severity Distributions (III).
@@ -20,3 +22,14 @@ Here are tutorial notes used in classes.
 - [Tutorial 8](https://drive.google.com/file/d/17MaFzlsTACBQirmOLLOMR1nstS5beA5v/view?usp=sharing): Credibility (I).
 - [Tutorial 9](https://drive.google.com/file/d/1JsHH6ehzTepCd6vr0aAuD5gVpl9KFl1M/view?usp=sharing): Credibility (II).
 - [Tutorial 10](https://drive.google.com/file/d/1keWZhB63e57CDeNZMnDkoaHvFqknq_S3/view?usp=sharing): Credibility (III).
+
+## Assignment solutions
+- [Assignment 1 solutions](https://drive.google.com/file/d/1ikhPq6TWHdNVIGD4xpugcugPq7rSp7xR/view?usp=sharing).
+- [Assignment 2 solutions](https://drive.google.com/file/d/1cQUQn2K8J9_0ruu2uM6TMD8SzExf6rRs/view?usp=sharing).
+- [Assignment 3 solutions](https://drive.google.com/file/d/1xQce4SC_VGPtOWMbGM0zU5fyenMAryvX/view?usp=sharing).
+- [Assignment 4 solutions](https://drive.google.com/file/d/16LIEGiwI3ydZlrsi9HjCYvTD4BSFLTLR/view?usp=sharing).
+
+## Exam solutions
+- [Midterm solutions](https://drive.google.com/file/d/1PQOGShdB8z_e-krpTq3s6AOJ4JMxB-EA/view?usp=sharing).
+- [Final solutions](https://drive.google.com/file/d/1ctWeI-KClbLYj6ZHBm3TUUb_Dm6qVsHs/view?usp=sharing).
+

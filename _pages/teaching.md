@@ -26,4 +26,4 @@ author_profile: true
         - [Tutorial notes (Spring 2020)](https://yuhangtom.github.io/teaching/RMSC4004_2020Spring)
     - [STAT 2005: Programming Languages for Statistics](https://www.sta.cuhk.edu.hk/programmes/stat-courses/#STAT2005)
         - Instructed by [Dr. Tat Wing Wong](http://www.sta.cuhk.edu.hk/peoples/twwong/) (Fall 2018, 19)
-        - [Tutorial notes (Fall 2019)](https://yuhangtom.github.io/teaching/STAT2005_2019Fall)
+        - [Tutorial notes and solutions (Fall 2019)](https://yuhangtom.github.io/teaching/STAT2005_2019Fall)
