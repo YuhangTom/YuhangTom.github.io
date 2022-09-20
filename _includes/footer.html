@@ -22,6 +22,9 @@
     <!-- <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
   <!-- </ul> -->
 <!-- </div> -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv"><i class="fab fa-fw fa-person" aria-hidden="true"></i> <span id="busuanzi_value_site_pv"></span></span>
+<span id="busuanzi_container_site_uv"><i class="fab fa-fw fa-eye" aria-hidden="true"></i> <span id="busuanzi_value_site_uv"></span></span>
 <div class="page__footer-follow">
   <b>Last Updated:</b> <span id="date"></span>
   <script>
@@ -33,7 +36,4 @@
   document.getElementById("date").innerHTML = months[m] + " " + d + ", " + y;
   </script>
 </div>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Total view<span id="busuanzi_value_site_pv"></span></span>
-<span id="busuanzi_container_site_uv">Total visitors<span id="busuanzi_value_site_uv"></span></span>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
