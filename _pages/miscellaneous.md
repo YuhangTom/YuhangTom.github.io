@@ -44,5 +44,5 @@ and
 [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring).
 I also play
 [Arknights](https://en.wikipedia.org/wiki/Arknights),
-a "free-to-play" tactical RPG and tower defense game on cell phones.
+a "free-to-play" tactical RPG and tower defense mobile game.
 
