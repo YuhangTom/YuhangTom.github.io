@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuhang (Tom) Lin"
 title_separator          : "-"
 name                     : &name "Yuhang (Tom) Lin"
-description              : &description "Ph.D. student in Statistics at Iowa State University"
+description              : &description "Ph.D. candidate in Statistics at Iowa State University"
 url                      : https://YuhangTom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuhangTom.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuhang (Tom) Lin"
   avatar           : "sitephoto_square.jpg"
-  bio              : "Ph.D. student, Statistics"
+  bio              : "Ph.D. candidate, Statistics"
   location         : "Ames, IA, USA"
   university       : "Iowa State University"
   employer         : 
