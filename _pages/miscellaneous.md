@@ -4,6 +4,7 @@ title: "Miscellaneous"
 author_profile: true
 ---
 
+## Sources
 Here I would like to share some interesting and useful sources I often use.
 
 - [STAT 4003: Statistical Inference](https://sites.google.com/site/kwchankeith/teaching/s4003)
@@ -24,7 +25,7 @@ written by
 and
 [Dr. Jun Shao](https://stat.wisc.edu/staff/shao-jun/).
 
-
+## Anime and Games
 Besides academic life,
 I enjoy anime and games.
 My favorite three anime are
@@ -45,4 +46,9 @@ and
 I also play
 [Arknights](https://en.wikipedia.org/wiki/Arknights),
 a "free-to-play" tactical RPG and tower defense mobile game.
+
+## Recent Goals
+I used to stay up late and get up late. I have been struggling to keep a healthy circadian clock and clock in [my Bangumi post](https://bgm.tv/group/topic/373255).
+
+Also, as I spend at least three hours a day cooking, I am trying to watch at least one movie simultaneously so I can empty [my wish list](https://movie.douban.com/people/58233543/wish) before 2023.
 
