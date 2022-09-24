@@ -55,5 +55,5 @@ I have been struggling to keep a healthy circadian clock and clock in
 Also,
 as I spend at least three hours a day cooking,
 I am trying to watch at least one movie simultaneously to empty
-[my wish list](https://movie.douban.com/people/58233543/wish) before 2023.
+[my wishlist](https://movie.douban.com/people/58233543/wish) before 2023.
 
