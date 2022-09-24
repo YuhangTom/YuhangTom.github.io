@@ -48,7 +48,12 @@ I also play
 a "free-to-play" tactical RPG and tower defense mobile game.
 
 ## Recent Goals
-I used to stay up late and get up late. I have been struggling to keep a healthy circadian clock and clock in [my Bangumi post](https://bgm.tv/group/topic/373255).
+I used to stay up late and get up late.
+I have been struggling to keep a healthy circadian clock and clock in
+[my Bangumi post](https://bgm.tv/group/topic/373255).
 
-Also, as I spend at least three hours a day cooking, I am trying to watch at least one movie simultaneously so I can empty [my wish list](https://movie.douban.com/people/58233543/wish) before 2023.
+Also,
+as I spend at least three hours a day cooking,
+I am trying to watch at least one movie simultaneously to empty
+[my wish list](https://movie.douban.com/people/58233543/wish) before 2023.
 
