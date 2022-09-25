@@ -25,14 +25,34 @@ written by
 and
 [Dr. Jun Shao](https://stat.wisc.edu/staff/shao-jun/).
 
-## Anime and Games
+
+## Anime, Games, and More
 Besides academic life,
-I enjoy anime and games.
+I enjoy anime, games, movies, and more.
+
 My favorite three anime are
 [K-ON!](https://en.wikipedia.org/wiki/K-On!),
 [Fate/Zero](https://en.wikipedia.org/wiki/Fate/Zero)
 and
 [Your Name](https://en.wikipedia.org/wiki/Your_Name).
+My favorite animation studio is
+[Kyoto Animation](https://en.wikipedia.org/wiki/Kyoto_Animation),
+well known as KyoAni.
+I am also following some manga and
+[light novel](https://en.wikipedia.org/wiki/Light_novel)
+series.
+So far,
+the manga series are
+[One Piece](https://en.wikipedia.org/wiki/One_Piece)
+and
+[Hunter × Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter),
+the light novel series are all written by
+[Reki Kawahara](https://en.wikipedia.org/wiki/Reki_Kawahara),
+including
+[Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online),
+[Accel World](https://en.wikipedia.org/wiki/Accel_World),
+and [The Isolator](https://en.wikipedia.org/wiki/The_Isolator).
+
 For PC games,
 I prefer
 [Soulslike](https://en.wikipedia.org/wiki/Soulslike)
@@ -45,10 +65,15 @@ and
 [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring).
 I also play
 [Arknights](https://en.wikipedia.org/wiki/Arknights),
-a "free-to-play" tactical RPG and tower defense mobile game.
+a "free-to-play"
+[tactical RPG](https://en.wikipedia.org/wiki/Tactical_role-playing_game)
+and
+[tower defense](https://en.wikipedia.org/wiki/Tower_defense)
+mobile game.
+
 
 ## Recent Goals
-I used to stay up late and get up late.
+I used to stay up and get up late.
 I have been struggling to keep a healthy circadian clock and clock in
 [my Bangumi post](https://bgm.tv/group/topic/373255).
 
