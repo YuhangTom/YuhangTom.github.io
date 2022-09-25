@@ -19,7 +19,7 @@ Currently,
 I am working on a project related to firearms and toolmark analysis at the [Center for Statistics and Applications in Forensic Evidence (CSAFE)](https://forensicstats.org/).
 
 
-## ACADEMIC BACKGROUND
+## Academic Background
 
 - Ph.D., Statistics, ISU (Expected July 2025) (Supervisor: [Dr. Heike Hofmann](https://www.stat.iastate.edu/people/heike-hofmann))
 - M.Phil., Statistics, CUHK (Supervisor: [Dr. Kin Wai Chan](http://www.sta.cuhk.edu.hk/peoples/kwchan/))
