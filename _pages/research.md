@@ -10,7 +10,7 @@ author_profile: true
 I am working on firearms and toolmark analysis under the supervision of Dr. Heike Hofmann.
 
 ## Crop Protection Discovery and Development (CPD&D) Department, [Corteva Agriscience](https://www.corteva.us/)
-I worked on generalized nonlinear mixed-effects models and back transformation with bias adjustment, with unbalanced data, under the supervision of Lu Liu.
+I worked on generalized nonlinear mixed-effects models and back transformation with bias adjustment, with unbalanced data, under the supervision of Hua Mo and Lu Liu.
 
 ## Department of Statistics, CUHK
 I worked on multiple imputation and multi-phase inference under the supervision of Dr. Kin Wai Chan.
