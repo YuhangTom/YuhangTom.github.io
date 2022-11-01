@@ -70,15 +70,3 @@ a "free-to-play"
 and
 [tower defense](https://en.wikipedia.org/wiki/Tower_defense)
 mobile game.
-
-
-## Recent Goals
-I used to stay up and get up late.
-I have been struggling to keep a healthy circadian clock and clock in
-[my Bangumi post](https://bgm.tv/group/topic/373255).
-
-Also,
-as I spend at least three hours a day cooking,
-I am trying to watch at least one movie simultaneously to empty
-[my wishlist](https://movie.douban.com/people/58233543/wish) before 2023.
-
