@@ -32,9 +32,9 @@ I enjoy anime, games, movies, and more.
 
 My favorite three anime are
 [K-ON!](https://en.wikipedia.org/wiki/K-On!),
-[Fate/Zero](https://en.wikipedia.org/wiki/Fate/Zero)
+[Bocchi the Rock!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!)
 and
-[Your Name](https://en.wikipedia.org/wiki/Your_Name).
+[Fate/Zero](https://en.wikipedia.org/wiki/Fate/Zero).
 My favorite animation studio is
 [Kyoto Animation](https://en.wikipedia.org/wiki/Kyoto_Animation),
 well known as KyoAni.
@@ -49,9 +49,9 @@ and
 the light novel series are all written by
 [Reki Kawahara](https://en.wikipedia.org/wiki/Reki_Kawahara),
 including
-[Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online),
-[Accel World](https://en.wikipedia.org/wiki/Accel_World),
-and [The Isolator](https://en.wikipedia.org/wiki/The_Isolator).
+[Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online)
+and
+[Accel World](https://en.wikipedia.org/wiki/Accel_World).
 
 For PC games,
 I prefer
