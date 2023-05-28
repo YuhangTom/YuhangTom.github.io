@@ -4,9 +4,18 @@ title: "Sharing"
 author_profile: true
 ---
 
+## Research conference presentations
 
+- (May 25, 2023) Contributed talk, Association of Firearm and Tool Mark Examiners (AFTE) 2023 Annual Conference
+    - Algorithmic assessment of striation similarity between wire cuts
+- (April 25, 2023) Contributed talk, 11th Annual Graduate and Professional Student Conference
+    - Algorithmic assessment of striation similarity between wire cuts
 
-## ISU
+## Other presentations
+
+### ISU
+- [Graphics group presentations](https://isu-graphicsgroup.github.io/gg-blog/)
+    - (March 30, 2023) [Striation similarity assessment between wire cuts with functional data analysis](https://isu-graphicsgroup.github.io/gg-blog/posts/2023-Spring/2023-03-30-Striation-similarity-assessment/)
 - Development version `R` packages
     - `ProfRate`: What People Talk About When They Talk About Professors
         - [Website](https://m-fili.github.io/ProfRate/),
@@ -14,7 +23,7 @@ author_profile: true
         [Recording](https://iowastate.instructuremedia.com/embed/e92cc922-07ba-4124-8db8-9b8968ddc770),
         [Slides](https://drive.google.com/file/d/1i6fDxfNZ8XAOJ2dF_UlxQx1sL2uAs075/view)
 
-## CUHK
+### CUHK
 - [Reading group presentations](https://sites.google.com/site/kwchankeith/e-learning/reading-group)
     - (2020 Summer) [Count Time Series: A Methodological Review](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1904957?journalCode=uasa20)
         - [Slides](https://drive.google.com/file/d/1f4w84om8-iRFVFKOnzhjv8kamCQ7z9U6/view)
