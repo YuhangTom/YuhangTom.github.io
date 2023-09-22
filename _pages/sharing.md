@@ -15,6 +15,7 @@ author_profile: true
 
 ### ISU
 - [Graphics group presentations](https://isu-graphicsgroup.github.io/gg-blog/)
+    - (September 21, 2023) [Algorithmic assessment of striation similarity between wire cuts](https://isu-graphicsgroup.github.io/gg-blog/posts/2023-Fall/2023-09-21-algorithmic_assessment/)
     - (March 30, 2023) [Striation similarity assessment between wire cuts with functional data analysis](https://isu-graphicsgroup.github.io/gg-blog/posts/2023-Spring/2023-03-30-Striation-similarity-assessment/)
 - Development version `R` packages
     - `ProfRate`: What People Talk About When They Talk About Professors
