@@ -14,9 +14,6 @@ author_profile: true
 ## Other presentations
 
 ### ISU
-- [Graphics group presentations](https://isu-graphicsgroup.github.io/gg-blog/)
-    - (September 21, 2023) [Algorithmic assessment of striation similarity between wire cuts](https://isu-graphicsgroup.github.io/gg-blog/posts/2023-Fall/2023-09-21-algorithmic_assessment/)
-    - (March 30, 2023) [Striation similarity assessment between wire cuts with functional data analysis](https://isu-graphicsgroup.github.io/gg-blog/posts/2023-Spring/2023-03-30-Striation-similarity-assessment/)
 - Development version `R` packages
     - `wire`: Tools for Analyzing Similarity Between Wires
         - [Website](https://yuhangtom.github.io/wire/),
@@ -25,6 +22,10 @@ author_profile: true
         - [Website](https://m-fili.github.io/ProfRate/),
         [GitHub](https://github.com/m-fili/ProfRate),
         [Slides](https://drive.google.com/file/d/1i6fDxfNZ8XAOJ2dF_UlxQx1sL2uAs075/view)
+- [Graphics group presentations](https://isu-graphicsgroup.github.io/gg-blog/)
+    - (September 21, 2023) [Algorithmic assessment of striation similarity between wire cuts](https://isu-graphicsgroup.github.io/gg-blog/posts/2023-Fall/2023-09-21-algorithmic_assessment/)
+    - (March 30, 2023) [Striation similarity assessment between wire cuts with functional data analysis](https://isu-graphicsgroup.github.io/gg-blog/posts/2023-Spring/2023-03-30-Striation-similarity-assessment/)
+
 
 ### CUHK
 - [Reading group presentations](https://sites.google.com/site/kwchankeith/e-learning/reading-group)
