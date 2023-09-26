@@ -8,6 +8,9 @@ author_profile: true
 
 ## Department of Statistics, ISU
 I am working on toolmark analysis under the supervision of Dr. Heike Hofmann.
+Currently,
+I am focusing on analyzing striation mark similarity on wire cut scans.
+The related `R` package under development is [`wire`](https://yuhangtom.github.io/wire/).
 
 ## Crop Protection Discovery and Development (CPD&D) Department, [Corteva Agriscience](https://www.corteva.us/)
 I worked on linear models, nonlinear models, machine learning and R Shiny app development, under the supervision of Hua Mo and Lu Liu.
