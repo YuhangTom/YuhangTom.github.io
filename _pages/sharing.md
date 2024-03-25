@@ -18,10 +18,14 @@ author_profile: true
     - `wire`: Tools for Analyzing Similarity Between Wires
         - [Website](https://yuhangtom.github.io/wire/),
         [GitHub](https://github.com/YuhangTom/wire)
+    - `wireShiny`: Run the Shiny App Based on Functionalities of `wire`
+        - [GitHub](https://github.com/YuhangTom/wireShiny)
     - `ProfRate`: What People Talk About When They Talk About Professors
         - [Website](https://m-fili.github.io/ProfRate/),
         [GitHub](https://github.com/m-fili/ProfRate),
         [Slides](https://drive.google.com/file/d/1i6fDxfNZ8XAOJ2dF_UlxQx1sL2uAs075/view)
+- [CSAFE learning webinar](https://learn.forensicstats.org/?page=4&pagename=Webinars)
+    - (March 19, 2023) [Algorithmic assessment of striation similarity between wire cuts](https://learn.forensicstats.org/product?catalog=WB240319)
 - [Graphics group presentations](https://isu-graphicsgroup.github.io/gg-blog/)
     - (September 21, 2023) [Algorithmic assessment of striation similarity between wire cuts](https://isu-graphicsgroup.github.io/gg-blog/posts/2023-Fall/2023-09-21-algorithmic_assessment/)
     - (March 30, 2023) [Striation similarity assessment between wire cuts with functional data analysis](https://isu-graphicsgroup.github.io/gg-blog/posts/2023-Spring/2023-03-30-Striation-similarity-assessment/)
