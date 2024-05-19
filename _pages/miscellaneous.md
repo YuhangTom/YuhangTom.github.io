@@ -70,3 +70,5 @@ a "free-to-play"
 and
 [tower defense](https://en.wikipedia.org/wiki/Tower_defense)
 mobile game.
+
+<p align="center"><img src="/metrics.plugin.anilist.svg" alt="Metrics" width="60%"></p>
