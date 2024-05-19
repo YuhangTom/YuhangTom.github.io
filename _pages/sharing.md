@@ -14,12 +14,16 @@ author_profile: true
 ## Other presentations
 
 ### ISU
-- Development version `R` packages
+- Developmental version `R` packages
     - `wire`: Tools for Analyzing Similarity Between Wires
         - [Website](https://yuhangtom.github.io/wire/),
         [GitHub](https://github.com/YuhangTom/wire)
-    - `wireShiny`: Run the Shiny App Based on Functionalities of `wire`
-        - [GitHub](https://github.com/YuhangTom/wireShiny)
+    - `wireShiny`: Run the Shiny App Based on the Functionalities of `wire`
+        - [Website](https://yuhangtom.github.io/wireShiny/),
+        [GitHub](https://github.com/YuhangTom/wireShiny)
+    - `x3ptools`: Tools for Working with 3D Surface Measurements
+        - [Website](https://heike.github.io/x3ptools/),
+        [GitHub](https://github.com/heike/x3ptools)
     - `ProfRate`: What People Talk About When They Talk About Professors
         - [Website](https://m-fili.github.io/ProfRate/),
         [GitHub](https://github.com/m-fili/ProfRate),
