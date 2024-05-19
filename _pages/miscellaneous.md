@@ -71,4 +71,4 @@ and
 [tower defense](https://en.wikipedia.org/wiki/Tower_defense)
 mobile game.
 
-![AnilstMetrics](https://github.com/YuhangTom/YuhangTom/blob/main/metrics.plugin.anilist.svg)
+![AnilstMetrics](https://raw.githubusercontent.com/YuhangTom/YuhangTom/main/metrics.plugin.anilist.svg)
