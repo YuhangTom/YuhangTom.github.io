@@ -28,6 +28,8 @@ author_profile: true
         - [Website](https://m-fili.github.io/ProfRate/),
         [GitHub](https://github.com/m-fili/ProfRate),
         [Slides](https://drive.google.com/file/d/1i6fDxfNZ8XAOJ2dF_UlxQx1sL2uAs075/view)
+- Public data
+    - [Visualization of Bangumi user Konico's ratings](https://iastate.figshare.com/articles/figure/Visualization_of_Bangumi_user_Konico_s_ratings/25472650)
 - [CSAFE learning webinar](https://learn.forensicstats.org/?page=1&pagename=Webinars)
     - (March 19, 2023) [Algorithmic assessment of striation similarity between wire cuts](https://learn.forensicstats.org/product?catalog=WB240319)
 - [Graphics group presentations](https://isu-graphicsgroup.github.io/gg-blog/)
