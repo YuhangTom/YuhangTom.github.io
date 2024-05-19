@@ -11,7 +11,7 @@ author_profile: true
 - (April 25, 2023) Contributed talk, 11th Annual Graduate and Professional Student Conference
     - Algorithmic assessment of striation similarity between wire cuts
 
-## Other presentations
+## Other
 
 ### ISU
 - Developmental version `R` packages
