@@ -16,7 +16,8 @@ The related `R` packages under development are [`wire`](https://yuhangtom.github
 Preprint: 
 
   - Lin, Y. & Hofmann, H. (2024), ‘A reproducible pipeline for extracting representative signals from wire cuts’.
-URL: [http://arxiv.org/abs/2405.11012]
+  
+    URL: [http://arxiv.org/abs/2405.11012](http://arxiv.org/abs/2405.11012)
 
 
 ## Crop Protection Discovery and Development (CPD&D) Department, [Corteva Agriscience](https://www.corteva.us/), 2022 - 2023
