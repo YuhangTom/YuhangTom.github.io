@@ -10,7 +10,7 @@ author_profile: true
 I am working on toolmark analysis under the supervision of Dr. Heike Hofmann.
 Currently,
 I am focusing on analyzing striation mark similarity on wire cut scans.
-The related `R` package under development is [`wire`](https://yuhangtom.github.io/wire/).
+The related `R` packages under development are [`wire`](https://yuhangtom.github.io/wire/) and [`wireShiny`](https://yuhangtom.github.io/wireShiny/).
 
 ## Crop Protection Discovery and Development (CPD&D) Department, [Corteva Agriscience](https://www.corteva.us/), 2022 - 2023
 I worked on linear models, nonlinear models, machine learning and R Shiny app development, under the supervision of Hua Mo and Lu Liu.
