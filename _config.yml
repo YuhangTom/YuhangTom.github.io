@@ -87,7 +87,7 @@ author:
   university       : "Iowa State University"
   employer         : 
   pubmed           : # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # example: "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=bCnsiw4AAAAJ"
   email            : "yhlin@iastate.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://www.stat.iastate.edu/people/yuhang-lin"
