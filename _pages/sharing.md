@@ -6,6 +6,10 @@ author_profile: true
 
 ## Research conference presentations
 
+- (June 3, 2024) Contributed poster, 2024 CSAFE All Hands Meeting
+    - Algorithmic assessment of striation similarity between wire cuts
+- (May 30, 2024) Contributed talk, Association of Firearm and Tool Mark Examiners (AFTE) 2024 Annual Conference
+    - Algorithmic matching of striated tool marks
 - (May 25, 2023) Contributed talk, Association of Firearm and Tool Mark Examiners (AFTE) 2023 Annual Conference
     - Algorithmic assessment of striation similarity between wire cuts
 - (April 25, 2023) Contributed talk, 11th Annual Graduate and Professional Student Conference
