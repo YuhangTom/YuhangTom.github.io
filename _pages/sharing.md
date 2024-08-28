@@ -6,6 +6,10 @@ author_profile: true
 
 ## Research conference presentations
 
+- (August 4-7, 2024) Contributed work, 2024 Joint Statistical Meetings (JSM) Data Art Show
+    - Needle (wire) in a haystack (sheet)
+- (August 5, 2024) Contributed talk, 2024 Joint Statistical Meetings (JSM)
+    - A reproducible pipeline for extracting representative signals from wire cuts
 - (June 3, 2024) Contributed poster, 2024 CSAFE All Hands Meeting
     - Algorithmic assessment of striation similarity between wire cuts
 - (May 30, 2024) Contributed talk, Association of Firearm and Tool Mark Examiners (AFTE) 2024 Annual Conference
