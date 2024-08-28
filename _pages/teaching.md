@@ -7,16 +7,18 @@ author_profile: true
 
 
 ## ISU
-- Lab Teaching Assistant
-    - [STAT 587: Statistical Methods for Research Workers](https://catalog.iastate.edu/search/?P=STAT%20587)
+- Instructor
+    - [STAT 5280: Visual Business Analytics](https://catalog.iastate.edu/azcourses/stat/)
+- Lab Instructor
+    - [STAT 587: Statistical Methods for Research Workers](https://catalog.iastate.edu/azcourses/stat/)
         - Instructed by [Dr. Mark Kaiser](https://www.stat.iastate.edu/people/mark-kaiser) (Fall 2021)
         - [Lab codes and assignment solutions](https://yuhangtom.github.io/teaching/STAT587_2021Fall)
         - Fun fact: This course was named after [Statistical Methods for Research Workers](https://link.springer.com/chapter/10.1007/978-1-4612-4380-9_6) by [R. A. Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher).
 - Grader
-    - [STAT 486/586: Introduction to Statistical Computing](https://catalog.iastate.edu/search/?P=STAT%20586)
+    - [STAT 486/586: Introduction to Statistical Computing](https://catalog.iastate.edu/azcourses/stat/)
         - Instructed by [Dr. Xiongtao Dai](https://publichealth.berkeley.edu/people/xiongtao-dai/) (Spring 2022)
         - [Homework solutions](https://yuhangtom.github.io/teaching/STAT486586_2022Spring)
-    - [STAT 551: Time Series Analysis](https://catalog.iastate.edu/search/?P=STAT%20551)
+    - [STAT 551: Time Series Analysis](https://catalog.iastate.edu/azcourses/stat/)
         - Instructed by [Dr. Dan Nordman](https://www.stat.iastate.edu/people/dan-nordman) (Fall 2021)
 
 ## CUHK
