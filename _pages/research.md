@@ -6,11 +6,11 @@ author_profile: true
 
 
 
-## [Center for Statistics and Applications in Forensic Evidence (CSAFE)](https://forensicstats.org/), ISU, 2022 - present
+## [Center for Statistics and Applications in Forensic Evidence (CSAFE)](https://forensicstats.org/), 2021 - present
 I am working on toolmark analysis under the supervision of Dr. Heike Hofmann.
 Currently,
 I am focusing on analyzing striation mark similarity on wire cut scans.
-The related `R` packages under development are [`wire`](https://yuhangtom.github.io/wire/) and [`wireShiny`](https://yuhangtom.github.io/wireShiny/).
+The related `R` packages under development are [`wire`](https://yuhangtom.github.io/wire/) for the algorithm and [`wireShiny`](https://yuhangtom.github.io/wireShiny/) for the R Shiny app.
 
 
 [2024 Joint Statistical Meetings (JSM) Proceedings](https://zenodo.org/communities/2024jsmproceedings/): 
@@ -19,8 +19,8 @@ The related `R` packages under development are [`wire`](https://yuhangtom.github
 
     - This paper won the [2024 American Statistical Association Student Paper Award](https://community.amstat.org/jointscsg-section/awards/student-paper-competition).
 
-## Crop Protection Discovery and Development (CPD&D) Department, [Corteva Agriscience](https://www.corteva.us/), 2022 - 2023
-I worked on linear models, nonlinear models, machine learning and R Shiny app development, under the supervision of Hua Mo and Lu Liu.
+## [Corteva](https://www.corteva.us/), 2022 - 2023
+I worked on linear models, nonlinear models, data analysis, data visualization, machine learning and R Shiny app development, under the supervision of Hua Mo and Lu Liu.
 
 ## Department of Statistics, CUHK, 2018 - 2020
 I worked on multiple imputation and multi-phase inference under the supervision of Dr. Kin Wai Chan.
