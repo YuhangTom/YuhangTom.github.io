@@ -8,7 +8,7 @@ author_profile: true
 
 ## ISU
 - Instructor
-    - [STAT 5280: Visual Business Analytics](https://catalog.iastate.edu/azcourses/stat/)
+    - [STAT 5280: Visual Business Analytics](https://catalog.iastate.edu/azcourses/stat/) (Fall 2024)
 - Lab Instructor
     - [STAT 587: Statistical Methods for Research Workers](https://catalog.iastate.edu/azcourses/stat/)
         - Instructed by [Dr. Mark Kaiser](https://www.stat.iastate.edu/people/mark-kaiser) (Fall 2021)
