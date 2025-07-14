@@ -7,7 +7,7 @@ author_profile: true
 ## [Amgen](https://www.amgen.com/), 2025
 I worked on mixed-effects model, data analysis, data visualization and R Shiny app development, under the supervision of Travis Wolter and Ben Ahlstrom.
 
-## [Center for Statistics and Applications in Forensic Evidence (CSAFE)](https://forensicstats.org/), 2021 - present
+## [Center for Statistics and Applications in Forensic Evidence (CSAFE)](https://forensicstats.org/), 2022 - present
 I am working on toolmark analysis under the supervision of Dr. Heike Hofmann and Dr. Alicia Carriquiry.
 Currently,
 I am focusing on analyzing striation mark similarity on wire cut scans.
