@@ -18,6 +18,6 @@ I have a strong background in machine learning, data analysis, and statistical m
 
 ## Academic Background
 
-- Ph.D. in Statistics, ISU (In Progress) (Supervisor: [Dr. Heike Hofmann](https://www.stat.iastate.edu/people/heike-hofmann))
+- Ph.D. in Statistics, ISU (In Progress) (Supervisor: [Dr. Heike Hofmann](https://www.stat.iastate.edu/people/heike-hofmann) and [Dr. Alicia Carriquiry](https://www.stat.iastate.edu/people/alicia-carriquiry))
 - M.Phil. in Statistics, CUHK (Supervisor: [Dr. Kin Wai Chan](http://www.sta.cuhk.edu.hk/peoples/kwchan/))
 - B.Sc. (Hons.) First Class in Statistics, CUHK
