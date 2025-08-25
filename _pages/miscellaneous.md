@@ -63,6 +63,7 @@ and my top three are
 [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)
 and
 [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring).
+I am so happy that [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong) has finally been released.
 I also play
 [Arknights](https://en.wikipedia.org/wiki/Arknights),
 a "free-to-play"
