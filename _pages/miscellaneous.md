@@ -73,3 +73,5 @@ and
 mobile game.
 
 <p align="center"><img src="https://raw.githubusercontent.com/YuhangTom/YuhangTom/main/metrics.plugin.anilist.svg" alt="Metrics" width="60%"></p>
+
+<img src="https://count.getloli.com/@yuhangtom_misc?name=yuhangtom_misc&theme=capoo-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Counts" width="60%">
