@@ -58,8 +58,9 @@ I prefer
 [Soulslike](https://en.wikipedia.org/wiki/Soulslike)
 and
 [Metroidvania](https://en.wikipedia.org/wiki/Metroidvania),
-and my top three are
+and my favorite are
 [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight),
+[Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong),
 [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice)
 and
 [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring).
