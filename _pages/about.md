@@ -11,7 +11,7 @@ redirect_from:
 
 # Welcome!
 
-I am a final-year Ph.D. candidate in Statistics at Iowa State University (ISU), graduating in May 2026. I am actively seeking a full-time position as a Data Scientist, Machine Learning Engineer, Statistician, Biostatistician, or Data Analyst where I can apply my expertise in machine learning, statistical modeling, and data-driven decision-making to solve complex challenges.
+I am a final-year Ph.D. candidate in Statistics at Iowa State University (ISU), graduating in July 2026. I am actively seeking a full-time position as a Data Scientist, Machine Learning Engineer, Statistician, Biostatistician, or Data Analyst where I can apply my expertise in machine learning, statistical modeling, and data-driven decision-making to solve complex challenges.
 
 My academic journey, including an M.Phil. and B.Sc. (Hons.) First Class in Statistics from The Chinese University of Hong Kong (CUHK) has provided me with a robust foundation in statistical theory and practice. I am proficient in R, Python, and SQL.
 
@@ -23,6 +23,6 @@ I am eager to bring my skills and research experience to an industry setting and
 
 ## Academic Background
 
-- Doctor of Philosophy in Statistics, ISU (May 2026) (Supervisor: [Dr. Heike Hofmann](https://www.stat.iastate.edu/people/heike-hofmann) and [Dr. Alicia Carriquiry](https://www.stat.iastate.edu/people/alicia-carriquiry))
+- Doctor of Philosophy in Statistics, ISU (July 2026) (Supervisor: [Dr. Heike Hofmann](https://www.stat.iastate.edu/people/heike-hofmann) and [Dr. Alicia Carriquiry](https://www.stat.iastate.edu/people/alicia-carriquiry))
 - Master of Philosophy in Statistics, CUHK (Supervisor: [Dr. Kin Wai Chan](http://www.sta.cuhk.edu.hk/peoples/kwchan/))
 - Bachelor of Science in Statistics, First Class Honors, CUHK
