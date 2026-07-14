@@ -11,18 +11,17 @@ redirect_from:
 
 # Welcome!
 
-I am a final-year Ph.D. candidate in Statistics at Iowa State University (ISU), graduating in July 2026. I am actively seeking a full-time position as a Data Scientist, Machine Learning Engineer, Statistician, Biostatistician, or Data Analyst where I can apply my expertise in machine learning, statistical modeling, and data-driven decision-making to solve complex challenges.
+I am a Statistics Research Scientist at Corteva Agriscience with a Ph.D. in Statistics from Iowa State University. My work focuses on applying advanced statistical methods, machine learning, data analysis, and experimental design to support scientific research and data-driven decision-making. I also contribute to the development of internal AI and agent-based tools that connect with organizational data and help improve research workflows.
 
-My academic journey, including an M.Phil. and B.Sc. (Hons.) First Class in Statistics from The Chinese University of Hong Kong (CUHK) has provided me with a robust foundation in statistical theory and practice. I am proficient in R, Python, and SQL.
+My academic background includes an M.Phil. and a B.Sc. (Hons.) with First Class Honours in Statistics from The Chinese University of Hong Kong. Through my academic research and industry experience, I have developed a strong foundation in statistical theory, computational methods, and practical problem-solving. I am proficient in R, Python, and SQL.
 
-- Current role: Statistician at Corteva, where I apply advanced statistical methods in machine learning, data analysis, and experimental design to support research and decision-making.
-- Previous experience: CMC Statistics and Product Quality Intern at Amgen, where I automated the analysis pipeline, developed R Shiny applications, and leveraged statistical modeling to improve efficiency and reduce costs.
+Previously, I worked as a CMC Statistics and Product Quality Intern at Amgen, where I automated analytical workflows, developed R Shiny applications, and applied statistical modeling to improve efficiency and reduce costs.
 
-I am eager to bring my skills and research experience to an industry setting and contribute to data-driven innovation. Please feel free to connect with me or reach out directly regarding potential opportunities.
+I am particularly interested in combining statistical rigor, modern computing, and emerging AI technologies to turn complex data problems into reliable, interpretable, and practical solutions.
 
 
 ## Academic Background
 
-- Doctor of Philosophy in Statistics, ISU (July 2026) (Supervisor: [Dr. Heike Hofmann](https://www.stat.iastate.edu/people/heike-hofmann) and [Dr. Alicia Carriquiry](https://www.stat.iastate.edu/people/alicia-carriquiry))
-- Master of Philosophy in Statistics, CUHK (Supervisor: [Dr. Kin Wai Chan](http://www.sta.cuhk.edu.hk/peoples/kwchan/))
-- Bachelor of Science in Statistics, First Class Honors, CUHK
+- Doctor of Philosophy in Statistics, Iowa State University (Supervisor: [Dr. Heike Hofmann](https://www.stat.iastate.edu/people/heike-hofmann) and [Dr. Alicia Carriquiry](https://www.stat.iastate.edu/people/alicia-carriquiry))
+- Master of Philosophy in Statistics, The Chinese University of Hong Kong (Supervisor: [Dr. Kin Wai Chan](http://www.sta.cuhk.edu.hk/peoples/kwchan/))
+- Bachelor of Science in Statistics, First Class Honors, The Chinese University of Hong Kong
