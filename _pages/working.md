@@ -4,7 +4,10 @@ title: "Working"
 author_profile: true
 ---
 
-## Statistician, [Corteva](https://www.corteva.us/), 2025 - present
+## Statistician, [Corteva](https://www.corteva.us/), 2026 - present
+I work on internal AI and agent-based tools that connect with organizational data and help improve research workflows.
+
+## Statistician, [Corteva](https://www.corteva.us/), 2025 - 2026
 I work on linear models, nonlinear models, data analysis, data visualization, machine learning and R Shiny app development.
 
 ## CMC Statistics and Product Quality Intern, [Amgen](https://www.amgen.com/), 2025
